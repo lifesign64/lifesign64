@@ -42,11 +42,7 @@
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/lifesign64/)
 
 --- 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifesign64&theme=white" /> 
 
-
-
-<img align="right" alt="lifesign64's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lifesign64&show_icons=true&hide_border=true" /><br />
 
 
 [github]: https://github.com/lifesign64/
